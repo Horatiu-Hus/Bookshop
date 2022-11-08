@@ -11,7 +11,7 @@ class Product(BaseElement):
         self._id = uuid4()
         self._price = None
         self._image_path = None
-        self._specifications = None
+        self._specifications = {}
 
     def extract_data(self):
         link_element = self._element.find_element(By.TAG_NAME, 'a')
@@ -23,7 +23,7 @@ class Product(BaseElement):
 
         self._price = float(
             self._driver.find_element(
-                By.XPATH, './/div[contains(@class, "product-main-area")]//p[contains="product-new-price"]'
+                By.XPATH, './/div[contains(@class, "product-main-area")]//p[contains(@class, "product-new-price")]'
             ).text.replace(' Lei', '').replace('.', '').replace(',', '.')
         )
 
@@ -39,20 +39,25 @@ class Product(BaseElement):
         sleep(0.5)
 
         specifications_body = self._driver.find_element(By.ID, 'specifications-body')
-        title_elements = specifications_body.find_element(By.TAG_NAME, 'p')
-        table_elements = specifications_body.find_element(By.TAG_NAME, 'table')
+        title_elements = specifications_body.find_elements(By.TAG_NAME, 'p')
+        table_elements = specifications_body.find_elements(By.TAG_NAME, 'table')
 
-        specifications = []
         for title_element, table_element in zip(title_elements, table_elements):
             specs_title = title_element.text
             self._specifications[specs_title] = {}
+
             row_elements = table_element.find_elements(By.TAG_NAME, 'tr')
             for row_element in row_elements:
-                cells = row_element.find_element(By.TAG_NAME, 'td')
+                cells = row_element.find_elements(By.TAG_NAME, 'td')
                 subcategory = cells[0].text
                 value = cells[1].text
 
-                specifications[specs_title][subcategory] = value
+                self._specifications[specs_title][subcategory] = value
+
+        try:
+            pass
+        except Exception as e:
+            print(e)
 
         self._driver.close()
         self._driver.switch_to.window(self._driver.window_handles[-1])

@@ -34,5 +34,5 @@ if __name__ == '__main__':
         for department in departments
     ]
 
-    with open('output.json') as json_file:
+    with open('output.json', 'w') as json_file:
         json.dump(output, json_file, indent=2)

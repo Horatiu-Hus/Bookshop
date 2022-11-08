@@ -12,7 +12,7 @@ class Department(BaseElement):
         title_element = self._element.find_element(By.TAG_NAME, 'h3')
         self._title = title_element.text
 
-        category_elements = self._element.find_element(By.XPATH, './/div[contains(@class, "subdepartment-col")]')
+        category_elements = self._element.find_elements(By.XPATH, './/div[contains(@class, "subdepartment-col")]')
         for index, category_element in enumerate(category_elements):
             category = Category(category_element, self._driver)
             category.extract_data()
@@ -24,5 +24,9 @@ class Department(BaseElement):
 
     def to_dict(self):
         return{
-
+            'title': self._title,
+            'categories': [
+                category.to_dict()
+                for category in self._categories
+            ]
         }

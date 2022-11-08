@@ -12,7 +12,7 @@ class Category(BaseElement):
         title_element = self._element.find_element(By.TAG_NAME, 'h4')
         self._title = title_element.text
 
-        subcategory_elements = self._element.find_element(By.XPATH, './/ul/li')
+        subcategory_elements = self._element.find_elements(By.XPATH, './/ul/li')
         for index, subcategory_element in enumerate(subcategory_elements):
             subcategory = Subcategory(subcategory_element, self._driver)
             subcategory.extract_data()
