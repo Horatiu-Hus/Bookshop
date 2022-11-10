@@ -1,0 +1,1946 @@
+[
+  {
+    "title": "Laptop, Tablete & Telefoane",
+    "categories": [
+      {
+        "title": "Laptopuri si accesorii",
+        "subcategories": [
+          {
+            "title": "Laptopuri",
+            "products": [
+              {
+                "title": "Laptop Gaming ASUS TUF F15 FX506HC cu procesor Intel\u00ae Core\u2122 i5-11400H pana la 4.50 GHz, 15.6\", Full HD, IPS, 144Hz, 8GB, 1TB SSD, NVIDIA\u00ae GeForce RTX\u2122 3050 4GB, No OS, Graphite Black",
+                "price": 5499.99,
+                "image_path": [
+                  "./images/Laptop Gaming ASUS TUF F15 FX506HC cu procesor Intel\u00ae Core\u2122 i5-11400H pana la 4.50 GHz, 15.6\", Full HD, IPS, 144Hz, 8GB, 1TB SSD, NVIDIA\u00ae GeForce RTX\u2122 3050 4GB, No OS, Graphite Black.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Laptop HP 15s-eq2025nq cu procesor AMD Ryzen\u2122 5 5500U pana la 4.00 GHz, 15.6\", Full HD, IPS, 8GB, 256GB SSD, AMD Radeon\u2122 Graphics, Free DOS, Natural silver",
+                "price": 2299.99,
+                "image_path": [
+                  "./images/Laptop HP 15s-eq2025nq cu procesor AMD Ryzen\u2122 5 5500U pana la 4.00 GHz, 15.6\", Full HD, IPS, 8GB, 256GB SSD, AMD Radeon\u2122 Graphics, Free DOS, Natural silver.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Laptop HP 15-dw3034nq cu procesor Intel\u00ae Core\u2122 i5-1135G7 pana la 4.20 GHz, 15.6\", Full HD, 8GB, 512GB SSD, Intel\u00ae Iris\u00ae Xe Graphics, Free DOS, Jet Black",
+                "price": 2249.99,
+                "image_path": [
+                  "./images/Laptop HP 15-dw3034nq cu procesor Intel\u00ae Core\u2122 i5-1135G7 pana la 4.20 GHz, 15.6\", Full HD, 8GB, 512GB SSD, Intel\u00ae Iris\u00ae Xe Graphics, Free DOS, Jet Black.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              }
+            ]
+          },
+          {
+            "title": "Genti laptop",
+            "products": [
+              {
+                "title": "Rucsac laptop gaming ASUS ROG BP1501G, 15\"-17\", rezistenta la apa si la zgarieturi, Negru",
+                "price": 132.0,
+                "image_path": [
+                  "./images/Rucsac laptop gaming ASUS ROG BP1501G, 15\"-17\", rezistenta la apa si la zgarieturi, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Husa de transport Essential Tech Protect compatibila laptop Apple MacBook Air, MacBook Pro Touch Bar din poliester 600D, 13\" Inch, 34x23x2 cm, Negru",
+                "price": 59.89,
+                "image_path": [
+                  "./images/Husa de transport Essential Tech Protect compatibila laptop Apple MacBook Air, MacBook Pro Touch Bar din poliester 600D, 13\" Inch, 34x23x2 cm, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Geanta laptop Lenovo Urban Toploader T530, 15.6\", Charcoal Grey",
+                "price": 107.99,
+                "image_path": [
+                  "./images/Geanta laptop Lenovo Urban Toploader T530, 15.6\", Charcoal Grey.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              }
+            ]
+          },
+          {
+            "title": "Docking stations",
+            "products": [
+              {
+                "title": "Docking Station USBC, 13 in 1 RikBo\u00ae, 1x 1000Mbps Gigabit Ethernet Port, 2x 4k HDMI, 1x VGA Port, 3x USB3.0, 1xUSB2.0, 1x USB-C Data Port, 1x TypeC PD Port, 1 x SD Card Slot, 1x TF Card, 1 x 3.5mm Audio / Mic",
+                "price": 339.15,
+                "image_path": [
+                  "./images/Docking Station USBC, 13 in 1 RikBo\u00ae, 1x 1000Mbps Gigabit Ethernet Port, 2x 4k HDMI, 1x VGA Port, 3x USB3.0, 1xUSB2.0, 1x USB-C Data Port, 1x TypeC PD Port, 1 x SD Card Slot, 1x TF Card, 1 x 3.5mm Audio / Mic.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Adaptor tip USB-C hub, 3x USB 2.0, 1x USB 3.0, pentru laptop/telefon/PC, Space Grey",
+                "price": 69.95,
+                "image_path": [
+                  "./images/Adaptor tip USB-C hub, 3x USB 2.0, 1x USB 3.0, pentru laptop/telefon/PC, Space Grey.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Adaptor pentru Macbook Air/Pro Bivier 6in1 Plug-And-Play, Type-C, Space Grey",
+                "price": 109.99,
+                "image_path": [
+                  "./images/Adaptor pentru Macbook Air/Pro Bivier 6in1 Plug-And-Play, Type-C, Space Grey.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Telefoane mobile & accesorii",
+        "subcategories": [
+          {
+            "title": "Telefoane Mobile",
+            "products": [
+              {
+                "title": "Telefon mobil Samsung Galaxy A13, 128GB, 4GB RAM, 4G, Nacho Black",
+                "price": 799.99,
+                "image_path": [
+                  "./images/Telefon mobil Samsung Galaxy A13, 128GB, 4GB RAM, 4G, Nacho Black.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip telefon": "Smartphone",
+                    "Sloturi SIM": "Dual SIM",
+                    "Tip SIM": "Nano SIM",
+                    "Sistem de operare": "Android",
+                    "Versiune sistem operare": "Android 12",
+                    "Numar nuclee": "8",
+                    "Frecventa procesor": "2 GHz\n1.8 GHz",
+                    "Tehnologii": "4G",
+                    "Conectivitate": "Wi-Fi\nBluetooth\nNFC\nGPS",
+                    "Senzori": "Accelerometru\nAmprenta\nSenzor de proximitate\nSenzor de lumina",
+                    "Continut pachet": "Telefon\nCheie SIM\nCablu de date USB Type-C",
+                    "Culoare": "Negru",
+                    "Dimensiuni": "76.4 x 8.8 x 165.1 mm",
+                    "Greutate": "195 g",
+                    "SAR (W/kg)": "0.35\n1.22",
+                    "An aparitie": "2022",
+                    "RO-ALERT": "Da"
+                  },
+                  "AFISARE": {
+                    "Dimensiune ecran": "6.6 inch",
+                    "Tip display": "LCD\nPLS\nTFT",
+                    "Rezolutie (pixeli)": "1080 x 2408",
+                    "Functii display": "16 milioane de culori"
+                  },
+                  "MEMORIE": {
+                    "Memorie interna": "128 GB",
+                    "Memorie RAM": "4 GB",
+                    "Slot card memorie": "MicroSD"
+                  },
+                  "CONECTIVITATE": {
+                    "Versiune Bluetooth": "5.2",
+                    "Standard Wi-Fi": "802.11 a/b/g/n/ac",
+                    "Porturi": "Jack 3.5 mm\nUSB Type C"
+                  },
+                  "FOTO VIDEO": {
+                    "Numar camere": "4",
+                    "Rezolutie camera principala": "50 MP Wide",
+                    "Rezolutie camera frontala": "8 Mpx",
+                    "Rezolutie video": "Full HD",
+                    "Caracteristici foto/video": "Auto focus\nZoom digital",
+                    "Blit": "Da"
+                  },
+                  "ALIMENTARE": {
+                    "Tip baterie": "Li-Po",
+                    "Capacitate baterie": "5000 mAh"
+                  }
+                }
+              },
+              {
+                "title": "Telefon mobil OUKITEL WP12 Pro, Android 11, 4GB/64GB, Dual SIM 4G, IP68, Face ID/NFC, Rosu",
+                "price": 749.7,
+                "image_path": [
+                  "./images/Telefon mobil OUKITEL WP12 Pro, Android 11, 4GB/64GB, Dual SIM 4G, IP68, Face ID/NFC, Rosu.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Telefon mobil Samsung Galaxy A13, 128GB, 4GB RAM, 4G, Nacho Blue",
+                "price": 799.99,
+                "image_path": [
+                  "./images/Telefon mobil Samsung Galaxy A13, 128GB, 4GB RAM, 4G, Nacho Blue.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip telefon": "Smartphone",
+                    "Sloturi SIM": "Dual SIM",
+                    "Tip SIM": "Nano SIM",
+                    "Sistem de operare": "Android",
+                    "Versiune sistem operare": "Android 12",
+                    "Numar nuclee": "8",
+                    "Frecventa procesor": "2 GHz\n1.8 GHz",
+                    "Tehnologii": "4G",
+                    "Conectivitate": "Wi-Fi\nBluetooth\nNFC\nGPS",
+                    "Senzori": "Accelerometru\nAmprenta\nSenzor de proximitate\nSenzor de lumina",
+                    "Continut pachet": "Telefon\nCheie SIM\nCablu de date USB Type-C",
+                    "Culoare": "Albastru",
+                    "Dimensiuni": "76.4 x 8.8 x 165.1 mm",
+                    "Greutate": "195 g",
+                    "SAR (W/kg)": "0.35\n1.22",
+                    "An aparitie": "2022",
+                    "RO-ALERT": "Da"
+                  },
+                  "AFISARE": {
+                    "Dimensiune ecran": "6.6 inch",
+                    "Tip display": "LCD\nPLS\nTFT",
+                    "Rezolutie (pixeli)": "1080 x 2408",
+                    "Functii display": "16 milioane de culori"
+                  },
+                  "MEMORIE": {
+                    "Memorie interna": "128 GB",
+                    "Memorie RAM": "4 GB",
+                    "Slot card memorie": "MicroSD"
+                  },
+                  "CONECTIVITATE": {
+                    "Versiune Bluetooth": "5.2",
+                    "Standard Wi-Fi": "802.11 a/b/g/n/ac",
+                    "Porturi": "Jack 3.5 mm\nUSB Type C"
+                  },
+                  "FOTO VIDEO": {
+                    "Numar camere": "4",
+                    "Rezolutie camera principala": "50 MP Wide",
+                    "Rezolutie camera frontala": "8 Mpx",
+                    "Rezolutie video": "Full HD",
+                    "Caracteristici foto/video": "Auto focus\nZoom digital",
+                    "Blit": "Da"
+                  },
+                  "ALIMENTARE": {
+                    "Tip baterie": "Li-Po",
+                    "Capacitate baterie": "5000 mAh"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Huse telefoane",
+            "products": [
+              {
+                "title": "Husa Protectie Silicon Antisoc Tpu Transparent compatibila cu Iphone 11",
+                "price": 19.99,
+                "image_path": [
+                  "./images/Husa Protectie Silicon Antisoc Tpu Transparent compatibila cu Iphone 11.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Carcasa",
+                    "Brand compatibil": "Apple",
+                    "Model compatibil": "iPhone 11",
+                    "Functii": "Anti gravity",
+                    "Material": "Plastic",
+                    "Culoare": "Transparent"
+                  }
+                }
+              },
+              {
+                "title": "Husa Casey Studios Premium Soft Silicone pentru iPhone 13, Negru, Ultra Slim, Silicon, Interior din microfibra",
+                "price": 54.99,
+                "image_path": [
+                  "./images/Husa Casey Studios Premium Soft Silicone pentru iPhone 13, Negru, Ultra Slim, Silicon, Interior din microfibra.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Etui",
+                    "Brand compatibil": "Apple",
+                    "Model compatibil": "iPhone 13",
+                    "Functii": "Rezistent la socuri\nRezistent la praf\nWireless charging\nAnti alunecare\nAntimicrobian",
+                    "Material": "Silicon",
+                    "Culoare": "Negru",
+                    "Continut pachet": "1 x husa silicon"
+                  }
+                }
+              },
+              {
+                "title": "Husa de protectie Apple Silicone Case with MagSafe pentru iPhone 13, Chalk Pink",
+                "price": 114.95,
+                "image_path": [
+                  "./images/Husa de protectie Apple Silicone Case with MagSafe pentru iPhone 13, Chalk Pink.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Carcasa",
+                    "Brand compatibil": "Apple",
+                    "Model compatibil": "iPhone 13",
+                    "Functii": "Rezistent la socuri\nRezistent la zgarieturi",
+                    "Material": "Silicon",
+                    "Culoare": "Chalk Pink",
+                    "Continut pachet": "1 x Husa"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Folii protectie telefoane",
+            "products": [
+              {
+                "title": "Folie de protectie Samsung Tempered Glass pentru Galaxy A53 5G, Transparent",
+                "price": 29.99,
+                "image_path": [
+                  "./images/Folie de protectie Samsung Tempered Glass pentru Galaxy A53 5G, Transparent.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Transparenta",
+                    "Tip aplicare": "Fata",
+                    "Cantitate pachet": "1",
+                    "Brand compatibil": "Samsung",
+                    "Model compatibil": "Galaxy A53 5G",
+                    "Material": "Sticla securizata",
+                    "Culoare": "Transparent",
+                    "Continut pachet": "Folie de sticla\nRacleta\nAplicator\nAutocolant pentru indepartarea prafului\nDetergent pentru microfibra"
+                  }
+                }
+              },
+              {
+                "title": "Folie Sticla Dr.Shield, Compatibil Apple iPhone 14 Pro, Protectie Profesionala Ecran 3D, Full Cover- Negru",
+                "price": 39.98,
+                "image_path": [
+                  "./images/Folie Sticla Dr.Shield, Compatibil Apple iPhone 14 Pro, Protectie Profesionala Ecran 3D, Full Cover- Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Anti reflexie\nAntiShock",
+                    "Tip aplicare:": "Fata",
+                    "Cantitate pachet": "1",
+                    "Brand compatibil": "Apple",
+                    "Model compatibil": "iPhone 14 Pro",
+                    "Grosime": "0.3 mm",
+                    "Duritate sticla": "9H+",
+                    "Material": "Sticla\nSticla securizata",
+                    "Tehnologii": "Sticla Asahi Japonia\nFull Cover (acopera intreg ecranul)\n3D\nRezistent la apa\nStrat Oleofobic\nRezistenta la soc\nRezistenta la zgarierturi"
+                  }
+                }
+              },
+              {
+                "title": "Folie Sticla Premium pentru iPhone 11 & iPhone XR (6.1\"), 5D, Full Cover (acopera tot ecranul), Full Glue, Negru",
+                "price": 9.52,
+                "image_path": [
+                  "./images/Folie Sticla Premium pentru iPhone 11 & iPhone XR (6.1\"), 5D, Full Cover (acopera tot ecranul), Full Glue, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Tablete & accesorii",
+        "subcategories": [
+          {
+            "title": "Tablete",
+            "products": [
+              {
+                "title": "Apple iPad 9 (2021), 10.2 \", 64GB, Wi-Fi, Space Grey",
+                "price": 1759.98,
+                "image_path": [
+                  "./images/Apple iPad 9 (2021), 10.2 \", 64GB, Wi-Fi, Space Grey.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Tableta Lenovo Tab M8 (3rd Gen), Octa-Core, 8\" HD (1280x800) IPS, 4GB RAM, 64GB, Wifi, Iron Grey + Smart Charging Station",
+                "price": 649.99,
+                "image_path": [
+                  "./images/Tableta Lenovo Tab M8 (3rd Gen), Octa-Core, 8\" HD (1280x800) IPS, 4GB RAM, 64GB, Wifi, Iron Grey + Smart Charging Station.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Tableta Samsung Galaxy Tab A8, Octa-Core, 10.5\", 4GB RAM, 64GB, WIFI, Silver",
+                "price": 1199.98,
+                "image_path": [
+                  "./images/Tableta Samsung Galaxy Tab A8, Octa-Core, 10.5\", 4GB RAM, 64GB, WIFI, Silver.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              }
+            ]
+          },
+          {
+            "title": "Huse tablete",
+            "products": [
+              {
+                "title": "Husa de protectie Apple Smart Folio pentru iPad Pro 11\" (3rd), Black",
+                "price": 339.99,
+                "image_path": [
+                  "./images/Husa de protectie Apple Smart Folio pentru iPad Pro 11\" (3rd), Black.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Husa de protectie geanta de transport Essential Tech Organiser, pentru iPad si accesorii, compatibila Apple iPad 10.2 (2022. 2021, 2020, 2019), Apple iPad Air, Apple iPad Pro 11, Apple iPad 9.7 (2018), 30 x 22 x 2 cm, negru",
+                "price": 115.95,
+                "image_path": [
+                  "./images/Husa de protectie geanta de transport Essential Tech Organiser, pentru iPad si accesorii, compatibila Apple iPad 10.2 (2022. 2021, 2020, 2019), Apple iPad Air, Apple iPad Pro 11, Apple iPad 9.7 (2018), 30 x 22 x 2 cm, negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI": {
+                    "Tip accesoriu": "Geanta tableta",
+                    "Brand compatibil": "Samsung\nAsus\nApple\nLenovo\nAcer",
+                    "Model compatibil": "Galaxy Tab A 10.1 (2019)\nGalaxy Tab 4 10.1\"\niPad 12.9\" (2018)\niPad 9 10.2\" (2021)\niPad 10.2'' (2019)\niPad 10.2\" (2020)",
+                    "Caracteristici speciale": "Buzunar frontal cu fermoare pentru diverse accesorii.\nBuzunar cabluri\nAntiShock\nBuzunar exterior",
+                    "Invelis": "Poliester\nCatifea",
+                    "Altele": "Buzunar pentru accesorii\nCaptuseala interioara moale\nAnti-alunecare",
+                    "Continut pachet": "1 x Husa de protectie",
+                    "Culoare": "Negru"
+                  },
+                  "COMPOZITIE": {
+                    "Exterior": "Poliester"
+                  },
+                  "DIMENSIUNI": {
+                    "Marime": "10.9 inch",
+                    "Diagonala Tableta (inch)": "10,1 Inch",
+                    "Greutate": "254 g"
+                  }
+                }
+              },
+              {
+                "title": "Husa tableta, Poliuretan/Policarbonat, Compatibila cu Lenovo Tab P11 Plus, 11'', Multicolor",
+                "price": 79.73,
+                "image_path": [
+                  "./images/Husa tableta, Poliuretan/Policarbonat, Compatibila cu Lenovo Tab P11 Plus, 11'', Multicolor.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              }
+            ]
+          },
+          {
+            "title": "Folii protectie tablete",
+            "products": [
+              {
+                "title": "Folie Sticla Nano Glass Hofi Compatibila Cu Ipad Mini 6 (2021), Transparenta",
+                "price": 44.77,
+                "image_path": [
+                  "./images/Folie Sticla Nano Glass Hofi Compatibila Cu Ipad Mini 6 (2021), Transparenta.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip accesoriu": "Folie sticla securizata display",
+                    "Compatibilitate": "iPad Mini 6",
+                    "Diagonala Tableta (inch)": "8.3\"",
+                    "Compatibilitate minima": "iPad Mini 6",
+                    "Culoare": "Transparent"
+                  }
+                }
+              },
+              {
+                "title": "Folie Tempered Glass Apple iPad 10.2\" (2019-2021) Sticla Securizata",
+                "price": 29.99,
+                "image_path": [
+                  "./images/Folie Tempered Glass Apple iPad 10.2\" (2019-2021) Sticla Securizata.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Folie de sticla pentru tableta, Lenovo Tab M8 TB-8705 3rd Gen 8 inch",
+                "price": 36.28,
+                "image_path": [
+                  "./images/Folie de sticla pentru tableta, Lenovo Tab M8 TB-8705 3rd Gen 8 inch.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip accesoriu": "Folie tempered glass\nFolie de sticla",
+                    "Compatibilitate": "Tab M8 [HD]",
+                    "Caracteristici speciale": "Folie din sticla, grosime 350\u00b5\n0.3mm, sticla securizata",
+                    "Invelis": "Folie din sticla, cu ambalaj din carton presat dur, pentru a evita deteriorarile la transport.",
+                    "Altele": "Aceasta folie nu este Universala, se potriveste doar la modelul prezentat in titlu, indiferent de cati inch are tableta dumneavoastra.\nNu este compatibila cu alte modele de Lenovo",
+                    "Diagonala Tableta (inch)": "8",
+                    "Compatibilitate minima": "TB-8705"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "PC, Periferice & Software",
+    "categories": [
+      {
+        "title": "Desktop PC & Monitoare",
+        "subcategories": [
+          {
+            "title": "Desktop PC",
+            "products": [
+              {
+                "title": "Sistem Desktop PC Gaming Serioux Powered by ASUS cu procesor Intel\u00ae Core\u2122 i5-10400F pana la 4.30GHz, 8GB DDR4, 512GB SSD, GeForce\u00ae GTX 1650 4GB GDDR6, No OS",
+                "price": 3299.99,
+                "image_path": [
+                  "./images/Sistem Desktop PC Gaming Serioux Powered by ASUS cu procesor Intel\u00ae Core\u2122 i5-10400F pana la 4.30GHz, 8GB DDR4, 512GB SSD, GeForce\u00ae GTX 1650 4GB GDDR6, No OS.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip sistem": "Desktop PC\nPowered by ASUS",
+                    "Destinat pentru": "Gaming",
+                    "Sistem de operare": "Fara sistem de operare",
+                    "Continut pachet": "1 x Sistem PC",
+                    "Culoare": "Negru"
+                  },
+                  "PROCESOR": {
+                    "Producator procesor": "Intel\u00ae",
+                    "Tip procesor": "i5",
+                    "Model procesor": "10400F",
+                    "Numar nuclee": "6",
+                    "Numar thread-uri": "12",
+                    "Arhitectura": "Comet Lake",
+                    "Frecventa nominala": "2.9 GHz",
+                    "Frecventa Turbo Boost": "4.3 GHz",
+                    "Cache": "12 MB",
+                    "Tehnologie procesor": "14 nm",
+                    "Procesor grafic integrat": "Fara procesor grafic integrat"
+                  },
+                  "PLACA DE BAZA": {
+                    "Producator placa de baza": "Asus",
+                    "Model placa de baza": "PRIME H510M-K",
+                    "Socket procesor": "LGA 1200",
+                    "Chipset": "Intel H510",
+                    "Sloturi onboard": "1 x PCIe x1\n1 x PCIe x16\n1 x M.2\n4 x SATA",
+                    "Porturi Back panel": "4 x USB 2.0\n1 x RJ-45\n1 x D-Sub\n1 x PS/2\n1 x HDMI\n3 x Audio jack\n2 x USB 3.2 Gen 1 Tip A",
+                    "Numar total sloturi memorie": "2",
+                    "Retea": "10/100/1000"
+                  },
+                  "MEMORIE RAM": {
+                    "Producator & model memorie": "Corsair Vengeance LPX",
+                    "Tip memorie": "DDR4",
+                    "Capacitate memorie": "8 GB",
+                    "Frecventa memorie": "2666 MHz",
+                    "Memorie maxima": "64 GB",
+                    "Sloturi ocupate": "1"
+                  },
+                  "CAPACITATE STOCARE": {
+                    "Tip stocare": "SSD",
+                    "Producator & model SSD": "Goodram PX500",
+                    "Capacitate SSD": "512 GB",
+                    "Interfata SSD": "PCI Express\nM.2",
+                    "Numar Solid-State Drive": "1"
+                  },
+                  "PLACA VIDEO": {
+                    "Tip placa video": "Dedicata",
+                    "Producator placa video": "Asus",
+                    "Chipset video": "nVidia GeForce GTX",
+                    "Model placa video": "GTX 1650",
+                    "Capacitate memorie video": "4 GB",
+                    "Tip memorie placa video": "GDDR6",
+                    "Tehnologii placa video": "DirectX 12\nnVidia Ansel\nGeForce Experience\nnVIDIA G-Sync",
+                    "Numar placi video": "1",
+                    "Porturi placa video": "1 x HDMI\n1 x DVI\n1 x DisplayPort"
+                  },
+                  "CARCASA & SURSA": {
+                    "Producator & model carcasa": "1STPLAYER Gaming F4-3F1",
+                    "Compatibilitate format placa de baza": "ATX",
+                    "Producator & model sursa": "nJoy Synergy 500",
+                    "Putere sursa": "600 W",
+                    "Unitate optica": "Fara unitate optica",
+                    "Sistem de racire procesor": "Aer"
+                  }
+                }
+              },
+              {
+                "title": "Mini PC Barebone Intel\u00ae NUC 12 Extreme Kit NUC12DCMi7 cu procesor Intel\u00ae Core\u2122 i7-12700 pana la 4.9GHz, fara RAM, fara stocare, Intel\u00ae UHD 770 Graphics, No OS",
+                "price": 6300.0,
+                "image_path": [
+                  "./images/Mini PC Barebone Intel\u00ae NUC 12 Extreme Kit NUC12DCMi7 cu procesor Intel\u00ae Core\u2122 i7-12700 pana la 4.9GHz, fara RAM, fara stocare, Intel\u00ae UHD 770 Graphics, No OS.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip sistem": "Mini PC",
+                    "Destinat pentru": "Gaming\nStatie business\nHome office",
+                    "Sistem de operare": "Fara sistem de operare",
+                    "Lungime": "120 mm",
+                    "Adancime": "189 mm",
+                    "Inaltime": "357 mm",
+                    "Greutate": "4.5 Kg",
+                    "Culoare": "Negru"
+                  },
+                  "PROCESOR": {
+                    "Producator procesor": "Intel\u00ae",
+                    "Tip procesor": "i7",
+                    "Model procesor": "12700",
+                    "Numar nuclee": "12",
+                    "Numar thread-uri": "20",
+                    "Arhitectura": "Alder Lake",
+                    "Frecventa Turbo Boost": "4.9 GHz",
+                    "Cache": "25 MB",
+                    "Tehnologie procesor": "10 nm",
+                    "Procesor grafic integrat": "Intel HD Graphics"
+                  },
+                  "PLACA DE BAZA": {
+                    "Producator placa de baza": "Intel",
+                    "Sloturi onboard": "2 x PCIe x16\n3 x M.2 2280",
+                    "Porturi Back panel": "2 x RJ-45\nLAN (Ethernet)\n2 x Thunderbolt 4\n2 x HDMI 2.0\n6 x USB 3.2 Gen 2\n1 x 3.5mm Audio jack\n1x SDXC (UHS-II)",
+                    "Numar total sloturi memorie": "2",
+                    "Retea": "10/100/1000/2500",
+                    "Versiune Bluetooth": "5.2",
+                    "Wireless": "802.11 ax 2x2"
+                  },
+                  "MEMORIE RAM": {
+                    "Producator & model memorie": "Fara memorie ram",
+                    "Tip memorie": "DDR4",
+                    "Capacitate memorie": "0 GB",
+                    "Frecventa memorie": "3200 MHz",
+                    "Memorie maxima": "64 GB"
+                  },
+                  "CAPACITATE STOCARE": {
+                    "Tip stocare": "Fara stocare",
+                    "Capacitate SSD": "0 GB",
+                    "Interfata SSD": "PCI Express\nM.2\nSATA"
+                  },
+                  "PLACA VIDEO": {
+                    "Tip placa video": "Integrata",
+                    "Producator placa video": "Intel",
+                    "Model placa video": "Intel HD Graphics"
+                  },
+                  "CARCASA & SURSA": {
+                    "Tip carcasa": "Mini Tower",
+                    "Putere sursa": "650 W",
+                    "Unitate optica": "Fara unitate optica"
+                  }
+                }
+              },
+              {
+                "title": "Sistem Gaming Acer Nitro N50-640 cu procesor Intel\u00ae Core\u2122 i5-12400 pana la 4.40 GHz, Alder Lake, 16GB, 1TB SSD, GeForce RTX 3060 12GB GDDR6, No OS",
+                "price": 6499.99,
+                "image_path": [
+                  "./images/Sistem Gaming Acer Nitro N50-640 cu procesor Intel\u00ae Core\u2122 i5-12400 pana la 4.40 GHz, Alder Lake, 16GB, 1TB SSD, GeForce RTX 3060 12GB GDDR6, No OS.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip sistem": "Desktop PC",
+                    "Destinat pentru": "Gaming",
+                    "Sistem de operare": "Fara sistem de operare",
+                    "VR ready": "Da",
+                    "Continut pachet": "1 x Desktop PC",
+                    "Lungime": "386 mm",
+                    "Adancime": "175 mm",
+                    "Inaltime": "392 mm",
+                    "Culoare": "Negru",
+                    "Model": "Nitro N50-640"
+                  },
+                  "PROCESOR": {
+                    "Producator procesor": "Intel\u00ae",
+                    "Tip procesor": "i5",
+                    "Model procesor": "12400",
+                    "Numar nuclee": "6",
+                    "Numar thread-uri": "12",
+                    "Arhitectura": "Alder Lake",
+                    "Frecventa nominala": "2.5 GHz",
+                    "Frecventa Turbo Boost": "4.4 GHz",
+                    "Cache": "18 MB",
+                    "Tehnologie procesor": "10 nm",
+                    "Procesor grafic integrat": "Intel\u00ae UHD Graphics 730"
+                  },
+                  "PLACA DE BAZA": {
+                    "Socket procesor": "1700",
+                    "Sloturi onboard": "1 x PCIe x1\n1 x PCIe x16",
+                    "Porturi Back panel": "4 x USB 2.0\n1 x RJ-45\n3 x Audio Jack\n2 x USB 3.2 Gen 1 Tip A\n1 x USB 3.2 Gen 2 Tip-A\n1 x USB-C",
+                    "Numar total sloturi memorie": "2",
+                    "Retea": "10/100/1000",
+                    "Versiune Bluetooth": "5.0",
+                    "Wireless": "802.11 ax 2x2"
+                  },
+                  "MEMORIE RAM": {
+                    "Tip memorie": "DDR4",
+                    "Capacitate memorie": "16 GB",
+                    "Sloturi ocupate": "2"
+                  },
+                  "CAPACITATE STOCARE": {
+                    "Tip stocare": "SSD",
+                    "Capacitate SSD": "1 TB",
+                    "Interfata SSD": "PCI Express",
+                    "Numar Solid-State Drive": "1"
+                  },
+                  "PLACA VIDEO": {
+                    "Tip placa video": "Dedicata",
+                    "Chipset video": "nVidia GeForce RTX",
+                    "Model placa video": "RTX 3060",
+                    "Capacitate memorie video": "12 GB",
+                    "Tip memorie placa video": "GDDR6",
+                    "Tehnologii placa video": "nVidia G-Sync\nVR Ready\nGeForce Experience\nRay tracing\nnVidia DLSS\nDirectX\u00ae 12 Ultimate",
+                    "Numar placi video": "1"
+                  },
+                  "CARCASA & SURSA": {
+                    "Tip carcasa": "Middle Tower",
+                    "Putere sursa": "500 W",
+                    "Unitate optica": "Fara unitate optica",
+                    "Sistem de racire procesor": "Aer"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Monitoare LED",
+            "products": [
+              {
+                "title": "Monitor gaming curbat LED VA Samsung Odyssey 32\", WQHD, DisplayPort, 165Hz, FreeSync Premium, Negru",
+                "price": 1549.99,
+                "image_path": [
+                  "./images/Monitor gaming curbat LED VA Samsung Odyssey 32\", WQHD, DisplayPort, 165Hz, FreeSync Premium, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Monitor portabil, ARZOPA, 14 inch, HDR, 1920X1080, Difuzor dual, USB-C, HDMI, Negru",
+                "price": 594.99,
+                "image_path": [
+                  "./images/Monitor portabil, ARZOPA, 14 inch, HDR, 1920X1080, Difuzor dual, USB-C, HDMI, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Gama": "Gaming\nHome & Office\nDigital Signage",
+                    "Putere consumata": "10 W",
+                    "Standarde": "16:9\nCCC\nCE\nPSE\nUL",
+                    "Greutate": "0.75 Kg",
+                    "Lungime": "318 mm",
+                    "Latime": "8 mm",
+                    "Inaltime": "190 mm",
+                    "Consum energie electrica / 1000 ore": "9 kWh",
+                    "Clasa energetica potrivit noilor etichete energetice adoptate la nivelul UE": "Clasa B",
+                    "Culoare": "Negru"
+                  },
+                  "AFISARE": {
+                    "Diagonala": "14 inch",
+                    "Tehnologie display": "LED\nIPS",
+                    "Tip rezolutie": "Full HD",
+                    "Rezolutie optima": "1920 x 1080",
+                    "Tip iluminare fundal": "LED",
+                    "Aspect imagine": "16 : 9",
+                    "Format ecran": "Clasic",
+                    "Tip suprafata display": "Anti glare\nHome and office",
+                    "Luminozitate": "300 cd/m\u00b2",
+                    "Timp de raspuns": "2 ms",
+                    "Unghi maxim vizibilitate orizontala/verticala": "178 \u00b0",
+                    "Contrast tipic": "1 000:1",
+                    "Rata de refresh (maximala)": "60 Hz",
+                    "Numar culori": "16700000"
+                  },
+                  "CONECTIVITATE": {
+                    "Porturi video": "1 x HDMI",
+                    "Porturi audio": "1 x Jack 3.5 mm",
+                    "Data ports": "2 x USB-C"
+                  },
+                  "FACILITATI": {
+                    "Functii speciale": "sRGB\nPlug & Play\n2 Difuzoare\nHDR\nFlicker-free\nLow Blue Light",
+                    "Tehnologii": "IPS\nLED\nPlug & Play\nHDR\nFlicker Free\nsRGB\nLow Blue Light",
+                    "Continut pachet": "1 x HDMI\n1 x Cablu USB-C la USB-C\nType-C to Type-A"
+                  }
+                }
+              },
+              {
+                "title": "Monitor Gaming Curbat AOC LED VA 23.6'' Full HD, 165Hz, 1ms, FreeSync Premium, Display Port, HDMI, VGA, C24G2AE/BK",
+                "price": 849.99,
+                "image_path": [
+                  "./images/Monitor Gaming Curbat AOC LED VA 23.6'' Full HD, 165Hz, 1ms, FreeSync Premium, Display Port, HDMI, VGA, C24G2AE/BK.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              }
+            ]
+          },
+          {
+            "title": "Accesorii monitoare",
+            "products": [
+              {
+                "title": "Adaptor, convertor semnal HDMI (digital) la VGA (analog) HDMI A tata la VGA mama - fara sunet, unidirectional",
+                "price": 25.0,
+                "image_path": [
+                  "./images/Adaptor, convertor semnal HDMI (digital) la VGA (analog) HDMI A tata la VGA mama - fara sunet, unidirectional.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Convertor",
+                    "Brand compatibil": "Universal",
+                    "Tip conector 1": "HDMI tata",
+                    "Tip conector 2": "VGA mama",
+                    "Culoare": "Negru"
+                  },
+                  "DIMENSIUNI": {
+                    "Lungime cablu": "0.2 m"
+                  }
+                }
+              },
+              {
+                "title": "Suport birou monitor amXea M1 Negru, pt monitor 13\"-27\" pana la 7kg, brat reglabil, ajustabil",
+                "price": 199.99,
+                "image_path": [
+                  "./images/Suport birou monitor amXea M1 Negru, pt monitor 13\"-27\" pana la 7kg, brat reglabil, ajustabil.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Cablu premium DisplayPort tata la DisplayPort tata v.1.4, Lanberg 42898, 1m, 8K 60Hz, HDR, DSC 1.2, negru",
+                "price": 54.0,
+                "image_path": [
+                  "./images/Cablu premium DisplayPort tata la DisplayPort tata v.1.4, Lanberg 42898, 1m, 8K 60Hz, HDR, DSC 1.2, negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Cablu",
+                    "Brand compatibil": "Universal",
+                    "Model compatibil": "Universal",
+                    "Tip conector 1": "DisplayPort tata",
+                    "Tip conector 2": "DisplayPort tata",
+                    "Continut pachet": "1 x Cablu",
+                    "Culoare": "Negru"
+                  },
+                  "DIMENSIUNI": {
+                    "Lungime cablu": "1 m",
+                    "Greutate": "87 g"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Componente PC",
+        "subcategories": [
+          {
+            "title": "Placi video",
+            "products": [
+              {
+                "title": "Placa video GIGABYTE WindForce GeForce\u00ae RTX\u2122 3060 OC, 12GB GDDR6, 192-bit",
+                "price": 2249.99,
+                "image_path": [
+                  "./images/Placa video GIGABYTE WindForce GeForce\u00ae RTX\u2122 3060 OC, 12GB GDDR6, 192-bit.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "GENERAL": {
+                    "Slot": "PCI Express 4.0",
+                    "Procesor Video": "nVidia GeForce RTX 3060",
+                    "Rezolutie maxima": "7680x4320",
+                    "Tip placa": "Gaming\nMultimedia"
+                  },
+                  "PROCESOR": {
+                    "Serie:": "RTX 3000",
+                    "Chipset": "nVIDIA"
+                  },
+                  "MEMORIE": {
+                    "Memorie": "12 GB",
+                    "Tip memorie": "GDDR6",
+                    "BUS memorie": "192 bit",
+                    "Frecventa memorie (MHz)": "15000"
+                  },
+                  "ALTE CARACTERISTICI": {
+                    "Latime de banda (GB/s)": "360",
+                    "Suport DirectX (versiune)": "12 Ultimate",
+                    "Suport OpenGL (versiune)": "4.6",
+                    "Tehnologii": "GeForce ShadowPlay\nnVidia Ansel\nGeForce Experience\nNVIDIA Highlights\nAccelerare DLSS\nNVIDIA FreeStyle"
+                  },
+                  "CONECTORI": {
+                    "Conector DisplayPort": "2",
+                    "Conector HDMI": "2",
+                    "Conector HDTV": "Nu",
+                    "Conector Alimentare": "1 x 8 pin"
+                  },
+                  "SISTEM DE RACIRE": {
+                    "Tip racire (activa/pasiva)": "Activa",
+                    "Radiator": "Da"
+                  },
+                  "ALTELE": {
+                    "Altele": "Sursa recomandata - 550 W\nL=198 W=121 H=39 mm"
+                  }
+                }
+              },
+              {
+                "title": "Placa video PNY GeForce\u00ae RTX\u2122 3060, Verto Dual Fan, 12GB GDDR6, 192-bit",
+                "price": 2184.0,
+                "image_path": [
+                  "./images/Placa video PNY GeForce\u00ae RTX\u2122 3060, Verto Dual Fan, 12GB GDDR6, 192-bit.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "GENERAL": {
+                    "Slot": "PCI Express 4.0",
+                    "Procesor Video": "nVidia GeForce RTX 3060",
+                    "Rezolutie maxima": "7680 x 4320 @60Hz (Digital)",
+                    "Tip placa": "Gaming\nMultimedia\nProfesional"
+                  },
+                  "PROCESOR": {
+                    "Serie": "NVIDIA GeForce RTX 3000",
+                    "Chipset": "nVIDIA",
+                    "Latime de banda procesor (biti)": "192"
+                  },
+                  "MEMORIE": {
+                    "Memorie": "12 GB",
+                    "Tip memorie": "GDDR6",
+                    "BUS memorie": "192 bit",
+                    "Frecventa memorie (MHz)": "1320",
+                    "Latime de banda memorie (biti)": "360"
+                  },
+                  "ALTE CARACTERISTICI": {
+                    "Latime de banda (GB/s)": "360",
+                    "Suport DirectX (versiune)": "12 Ultimate",
+                    "Suport OpenGL (versiune)": "4.6",
+                    "Tehnologii": "VR Ready\nGame Ready Drivers\nHdcp 2.3\nNVidia DLSS\n3rd Gen Tensor Cores\nNVIDIA GPU Boost\u2122\nPCI Express\u00ae Gen 4\nSupports 4k 120Hz HDR, 8K60Hz HDR, and Variable Refresh Rate as specified in HDMI 2.1\nMicrosoft DirectX\u00ae 12 Ultimate\nVulkan RT API,\nGDDR6 Graphics Memory\nOpenGL 4.6\nNVIDIA\u00ae GeForce Experience\nNVIDIA G-SYNC\u00ae\n2nd Gen Ray Tracing Cores"
+                  },
+                  "CONECTORI": {
+                    "Conector DisplayPort": "3 x DisplayPort 1.4a",
+                    "Conector HDMI": "1 x HDMI 2.1"
+                  }
+                }
+              },
+              {
+                "title": "Placa video ASUS GeForce\u00ae GT 730, 2GB GDDR5, 64-bit",
+                "price": 345.0,
+                "image_path": [
+                  "./images/Placa video ASUS GeForce\u00ae GT 730, 2GB GDDR5, 64-bit.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "GENERAL": {
+                    "Slot": "PCI Express 2.0",
+                    "Procesor Video": "nVidia GeForce GT 730",
+                    "Rezolutie maxima": "2560 x 1600",
+                    "Tip placa": "Multimedia"
+                  },
+                  "PROCESOR": {
+                    "Serie": "nVidia GeForce GT 700",
+                    "Chipset": "nVIDIA",
+                    "Frecventa procesor (MHz)": "902"
+                  },
+                  "MEMORIE": {
+                    "Memorie": "2 GB",
+                    "Tip memorie": "GDDR5",
+                    "BUS memorie": "64",
+                    "Frecventa memorie (MHz)": "5010"
+                  },
+                  "ALTE CARACTERISTICI": {
+                    "Suport OpenGL (versiune)": "4.4"
+                  },
+                  "CONECTORI": {
+                    "Conector D-sub 15 pini": "1",
+                    "Conector DVI": "1",
+                    "Conector HDMI": "1"
+                  },
+                  "SISTEM DE RACIRE": {
+                    "Tip racire (activa/pasiva)": "Pasiva",
+                    "Radiator": "Da"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Placi de baza",
+            "products": [
+              {
+                "title": "Placa de baza ASUS PRIME B560M-A, Socket 1200",
+                "price": 556.82,
+                "image_path": [
+                  "./images/Placa de baza ASUS PRIME B560M-A, Socket 1200.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "PROCESOR": {
+                    "CPU Socket": "1200",
+                    "Chipset": "B560",
+                    "Procesoare suportate": "Intel\u00ae Core\u2122, Pentium\u00ae Gold si Celeron\u00ae din a 11-a si a 10-a generatie",
+                    "Socket-uri procesor": "1"
+                  },
+                  "MEMORIE": {
+                    "Tip memorie": "DDR4",
+                    "Capacitate maxima memorie RAM (MB)": "128 GB",
+                    "Frecventa memorie (MHz)": "5000(OC)/4800(OC)/4600(OC)/4400(OC)/4266(OC)/4000(OC)/3733(OC)/3600(OC)/3466(OC)/3333(OC)/3200/2933/2800/2666/2400/2133",
+                    "Suport Dualchannel": "Da",
+                    "Suport ECC": "Nu",
+                    "Sloturi memorie": "4"
+                  },
+                  "CONECTIVITATE": {
+                    "Slot PCI": "PCI Express 4.0 x16 (11th gen Intel CPU)",
+                    "LAN integrat": "Intel I219-V",
+                    "Interfata Serial ATA": "6 x SATA III",
+                    "Rata de transfer SATA (MB/s)": "6000",
+                    "Conector sursa (pini)": "1 x 24 pin ATX\n1 x 8 pin 12V",
+                    "Conectivitate": "2 x HDMI\n4 x USB 2.0\n1 x PS/2\n1 x DisplayPort\n3 x Audio Jack\n1 x RJ-45\n2 x USB 3.2 Gen 2 (1 x Type-A + USB Type-C)\n1 x V-M.2 slot (Key E)"
+                  },
+                  "SLOTURI": {
+                    "Sloturi PCI-E x16": "2",
+                    "Sloturi PCI-E x1": "1",
+                    "Sloturi speciale": "2 x M.2"
+                  },
+                  "ALTELE": {
+                    "Tehnologii suportate": "ASUS Q-Design\nASUS UEFI BIOS EZ\nAI Suite 3\nASUS 5X Protection III\nASUS Thermal Solution\nASUS Exclusive Software\nAURA Sync",
+                    "BIOS & memorie BIOS": "128 Mb Flash ROM, UEFI AMI BIOS",
+                    "Format": "Micro ATX",
+                    "Dimensiuni (L x W) (cm)": "24.4 x 23.4"
+                  }
+                }
+              },
+              {
+                "title": "Placa de baza MSI A520M-A PRO, Socket AM4",
+                "price": 349.0,
+                "image_path": [
+                  "./images/Placa de baza MSI A520M-A PRO, Socket AM4.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "PROCESOR": {
+                    "CPU Socket": "AM4",
+                    "Chipset": "AMD A520",
+                    "Procesoare suportate": "Suporta AMD Ryzen\u2122 5000 & 3000 (nu este compatibila cu AMD Ryzen\u2122 5 3400G & Ryzen\u2122 3 3200G) si seria AMD Ryzen\u2122 4000 G",
+                    "Socket-uri procesor": "1"
+                  },
+                  "MEMORIE": {
+                    "Tip memorie": "DDR 4",
+                    "Capacitate maxima memorie RAM (MB)": "64 GB",
+                    "Frecventa memorie (MHz)": "1866/ 2133/ 2400/ 2667/ 2800/ 2933/ 3000/ 3066/ 3200 MHz by JEDEC\n2667/ 2800 /2933 /3000 /3066 /3200 /3466 /3600/ 3733 /3866 /4000 /4133 /4266 /4400/ 4600+ MHz by A-XMP OC Mode",
+                    "Suport Dualchannel": "Da",
+                    "Sloturi memorie": "2"
+                  },
+                  "CONECTIVITATE": {
+                    "Slot PCI": "PCI Express x16 3.0",
+                    "Audio integrat": "Realtek\u00ae ALC892/ALC897",
+                    "LAN integrat": "Realtek\u00ae RTL8111H",
+                    "RAID integrat": "0, 1, 10",
+                    "Interfata Serial ATA": "4 x SATA",
+                    "Rata de transfer SATA (MB/s)": "6000",
+                    "Conector sursa (pini)": "1 x 24 pin ATX\n1 x 4 pin 12V",
+                    "Conectivitate": "1 x HDMI\n1 x PS/2\n2 x USB 2.0\n3 x Audio Jack\n1 x DVI-D\n1 x RJ-45\n4 x USB 3.2",
+                    "Porturi seriale": "1"
+                  },
+                  "SLOTURI": {
+                    "Sloturi PCI-E x16": "1",
+                    "Sloturi PCI-E x1": "1",
+                    "Sloturi speciale": "1 x M.2"
+                  },
+                  "ALTELE": {
+                    "Tehnologii suportate": "DDR4 Boost\nEz Debug LED\nMystic Light\nCore Boost\nM.2 SHIELD FROZR",
+                    "Format": "m-ATX",
+                    "Dimensiuni (L x W) (cm)": "23.6 x 20"
+                  }
+                }
+              },
+              {
+                "title": "Placa de baza ASUS PRIME B450M-A II, Socket AM4",
+                "price": 403.27,
+                "image_path": [
+                  "./images/Placa de baza ASUS PRIME B450M-A II, Socket AM4.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "PROCESOR": {
+                    "CPU Socket": "AM4",
+                    "Chipset": "B450M",
+                    "Procesoare suportate": "Prima, a doua si a treia generatie AMD Ryzen / Ryzen cu Radeon Vega Graphics / a doua generatie AMD Ryzen cu Radeon Vega Graphics si Athlon cu Radeon Vega Graphics",
+                    "Socket-uri procesor": "1"
+                  },
+                  "MEMORIE": {
+                    "Tip memorie": "DDR4",
+                    "Capacitate maxima memorie RAM (MB)": "128 GB",
+                    "Frecventa memorie (MHz)": "4400(O.C)/4000(O.C.)/3866(O.C.)/3733(O.C.)/3600(O.C.)/3466(O.C.)/3400(O.C.)/3300(O.C.)/3200(O.C.)/3000(O.C.)/2800(O.C.)/2666/2400/2133",
+                    "Suport Dualchannel": "Da",
+                    "Suport ECC": "Variaza in functie de CPU",
+                    "Sloturi memorie": "4"
+                  },
+                  "CONECTIVITATE": {
+                    "Slot PCI": "PCI Express 3.0",
+                    "Audio integrat": "ALC887 7.1 -Canale",
+                    "LAN integrat": "Realtek RTL8111H",
+                    "RAID integrat": "0, 1, 10",
+                    "Interfata Serial ATA": "6 x SATA III",
+                    "Rata de transfer SATA (MB/s)": "6000",
+                    "Conector sursa (pini)": "1 x 24 pin ATX\n1 x 8 pin ATX",
+                    "Conectivitate": "1 x HDMI\n1 x PS/2\n3 x Audio Jack\n1 x D-Sub\n1 x DVI-D\n1 x RJ-45\n2 x USB 3.2 Gen 2 Tip A\n4 x USB 3.2 Gen 1 (albastru) Tip-A"
+                  },
+                  "SLOTURI": {
+                    "Sloturi PCI-E x16": "1",
+                    "Sloturi PCI-E x1": "2",
+                    "Sloturi speciale": "1 x M.2"
+                  },
+                  "ALTELE": {
+                    "Tehnologii suportate": "Ai Charger\nAI Suite 3\nTurboV EVO\nASUS EZ DIY\nASUS Exclusive Software\nASUS CPU-Z",
+                    "BIOS & memorie BIOS": "UEFI AMI BIOS\n256Mb Flash ROM",
+                    "Format": "mATX",
+                    "Dimensiuni (L x W) (cm)": "24.4 x 24"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Placi de sunet",
+            "products": [
+              {
+                "title": "Placa de sunet AXAGON ADA-10, Interfata USB, Stereo output",
+                "price": 38.55,
+                "image_path": [
+                  "./images/Placa de sunet AXAGON ADA-10, Interfata USB, Stereo output.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Raport semnal/zgomot (dB)": "93",
+                    "Rezolutie (biti)": "16",
+                    "Numar Canale": "2",
+                    "Viteza de esantionare maxima (KHz)": "48",
+                    "Interfata": "USB",
+                    "Conectori (iesiri)": "2 x Jack 3.5 mm",
+                    "Conectori (intrari)": "1 x USB 2.0",
+                    "Facilitati": "instalare automata",
+                    "Sistem de operare": "Universal"
+                  }
+                }
+              },
+              {
+                "title": "Placa de sunet externa Logilink Sound Box UA0099, interfata USB, 7.1 canale",
+                "price": 164.99,
+                "image_path": [
+                  "./images/Placa de sunet externa Logilink Sound Box UA0099, interfata USB, 7.1 canale.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Numar Canale": "7.1",
+                    "Viteza de esantionare maxima (KHz)": "48",
+                    "Conectori panou fata": "8 x Jack 3.5 mm\n2 x SPDIF digital\n1 x USB In",
+                    "Interfata": "USB",
+                    "Efecte sonore": "Surround",
+                    "Sistem de operare": "Microsoft Windows XP\nWindows 8\nWindows 7\nWindows 10"
+                  }
+                }
+              },
+              {
+                "title": "Placa de sunet LogiLink UA0078, 7.1, USB",
+                "price": 32.0,
+                "image_path": [
+                  "./images/Placa de sunet LogiLink UA0078, 7.1, USB.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Numar Canale": "2\nSimuleaza 7.1 canale",
+                    "Capabilitati": "Virtual Speaker Shifter",
+                    "Interfata": "USB 2.0",
+                    "Conectori (iesiri)": "1 x Microfon jack 3.5 mm",
+                    "Conectori (intrari)": "1 x Difuzor jack 3.5 mm",
+                    "Efecte sonore": "7.1 surround sound effects"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Software",
+        "subcategories": [
+          {
+            "title": "Office & Aplicatii Desktop",
+            "products": [
+              {
+                "title": "Microsoft Office 2021 pe stick usb",
+                "price": 189.0,
+                "image_path": [
+                  "./images/Microsoft Office 2021 pe stick usb.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip aplicatie": "Office",
+                    "Varianta de comercializare": "Retail",
+                    "Utilizare": "PC",
+                    "Versiune": "Office Professional Plus",
+                    "An": "2021",
+                    "Limba": "Toate limbile",
+                    "Numar dispozitive": "1",
+                    "Numar utilizatori": "1",
+                    "Valabilitate": "Nelimitat"
+                  },
+                  "CERINTE MINIME SISTEM": {
+                    "Sistem de operare compatibil": "Windows 11"
+                  }
+                }
+              },
+              {
+                "title": "Licenta Microsoft Office 2021 Professional Plus USB Slim Case",
+                "price": 119.0,
+                "image_path": [
+                  "./images/Licenta Microsoft Office 2021 Professional Plus USB Slim Case.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip aplicatie": "Office",
+                    "Varianta de comercializare": "Retail",
+                    "Utilizare": "PC",
+                    "Versiune": "Office Professional",
+                    "An": "2021",
+                    "Limba": "Romana",
+                    "Numar dispozitive": "1",
+                    "Numar utilizatori": "1",
+                    "Valabilitate": "Nelimitat"
+                  },
+                  "CERINTE MINIME SISTEM": {
+                    "Sistem de operare compatibil": "Windows 11"
+                  }
+                }
+              },
+              {
+                "title": "Licenta Microsoft Office 2021 Professional Plus, Windows 32/64 biti, stick USB Flash",
+                "price": 238.0,
+                "image_path": [
+                  "./images/Licenta Microsoft Office 2021 Professional Plus, Windows 32/64 biti, stick USB Flash.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              }
+            ]
+          },
+          {
+            "title": "Sisteme de operare",
+            "products": [
+              {
+                "title": "Microsoft Windows 10 Pro Retail, USB 3.0, BOX, 32/64 bit, All Languages (FPP)",
+                "price": 179.0,
+                "image_path": [
+                  "./images/Microsoft Windows 10 Pro Retail, USB 3.0, BOX, 32/64 bit, All Languages (FPP).jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Microsoft\u00ae Windows 10 Home 10 32-bit/64-bit English USB Flash P2",
+                "price": 169.0,
+                "image_path": [
+                  "./images/Microsoft\u00ae Windows 10 Home 10 32-bit/64-bit English USB Flash P2.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Windows 11 Pro USB 3.0 Retail Box FPP 32-bit/64-bit English",
+                "price": 159.0,
+                "image_path": [
+                  "./images/Windows 11 Pro USB 3.0 Retail Box FPP 32-bit/64-bit English.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              }
+            ]
+          },
+          {
+            "title": "Antivirus",
+            "products": [
+              {
+                "title": "Bitdefender Total Security - 1 an + 1 an gratuit, 3 dispozitive",
+                "price": 139.99,
+                "image_path": [
+                  "./images/Bitdefender Total Security - 1 an + 1 an gratuit, 3 dispozitive.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Varianta de comercializare": "Retail",
+                    "Tip licenta": "Noua",
+                    "Utilizare": "PC\nMAC\nSmartphone\nTableta",
+                    "Versiune": "Total Security",
+                    "Numar dispozitive": "3",
+                    "Numar utilizatori": "1",
+                    "Valabilitate": "2 ani",
+                    "Functii": "Antivirus\nAnti-phising\nProtectia datelor\nAntispam\nAnti Ransomware",
+                    "Sistem de operare compatibil": "Windows 10\nWindows 8.1\nWindows 7\nWindows 8\nAndroid\niOS\nMac OS",
+                    "Frecventa procesor": "2.2 GHz",
+                    "Capacitate memorie RAM": "2 GB",
+                    "Capacitate stocare": "2.5 GB"
+                  }
+                }
+              },
+              {
+                "title": "Antivirus Bitdefender Mobile Security pentru Android si iOS, 1 an, 3 dispozitive, scratch card",
+                "price": 22.99,
+                "image_path": [
+                  "./images/Antivirus Bitdefender Mobile Security pentru Android si iOS, 1 an, 3 dispozitive, scratch card.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Varianta de comercializare": "Retail",
+                    "Tip licenta": "Noua",
+                    "Utilizare": "Smartphone\nTableta",
+                    "Versiune": "Mobile Security",
+                    "Numar dispozitive": "3",
+                    "Numar utilizatori": "3",
+                    "Valabilitate": "1 an",
+                    "Functii": "Antivirus\nAnti-phising\nProtectia datelor",
+                    "Sistem de operare compatibil": "Android\niOS"
+                  }
+                }
+              },
+              {
+                "title": "Bitdefender Total Security - 1 an, 10 dispozitive",
+                "price": 172.98,
+                "image_path": [
+                  "./images/Bitdefender Total Security - 1 an, 10 dispozitive.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Varianta de comercializare": "Retail",
+                    "Tip licenta": "Noua",
+                    "Utilizare": "PC\nMAC\nSmartphone\nTableta",
+                    "Versiune": "Total Security",
+                    "Numar dispozitive": "10",
+                    "Numar utilizatori": "10",
+                    "Valabilitate": "1 an",
+                    "Functii": "Antivirus\nAnti-phising\nProtectia datelor\nAntispam\nAnti Ransomware",
+                    "Sistem de operare compatibil": "Windows 10\nWindows 8.1\nWindows 7\nWindows 8\nAndroid\niOS\nMac OS",
+                    "Frecventa procesor": "2.2 GHz",
+                    "Capacitate memorie RAM": "2 GB",
+                    "Capacitate stocare": "2.5 GB"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "TV, Audio-Video & Foto",
+    "categories": [
+      {
+        "title": "Televizoare & accesorii",
+        "subcategories": [
+          {
+            "title": "Televizoare",
+            "products": [
+              {
+                "title": "Televizor LED Nei 43NE6900, 108cm, Smart, 4K Ultra HD, Clasa G",
+                "price": 1199.99,
+                "image_path": [
+                  "./images/Televizor LED Nei 43NE6900, 108cm, Smart, 4K Ultra HD, Clasa G.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Diagonala display": "108 cm",
+                    "Tip TV": "Smart TV",
+                    "Tehnologie display": "LED",
+                    "Claritate imagine": "4K",
+                    "Culoare": "Negru",
+                    "Format display": "Plat"
+                  },
+                  "SMART TV": {
+                    "Aplicatii Video Streaming": "Netflix\nAmazon Prime\nDeezer"
+                  },
+                  "CARACTERISTICI VIDEO": {
+                    "Rezolutie": "3840 x 2160",
+                    "Rata de refresh": "60 Hz",
+                    "Tuner digital integrat": "DVB-C\nDVB-S2\nDVB-T\nDVB-T2"
+                  },
+                  "CARACTERISTICI AUDIO": {
+                    "Tehnologii audio": "Stereo",
+                    "Sistem audio": "2",
+                    "Putere difuzoare integrate": "8 W",
+                    "Subwoofer integrat": "Nu"
+                  },
+                  "CONECTIVITATE": {
+                    "Conectivitate wireless": "Wi-Fi",
+                    "Interfata": "1 x Jack 3.5 mm\n3 x HDMI\n1 x RJ-45\nCI+ slot\n2 x USB\n2 x RF"
+                  },
+                  "CONSUM ENERGIE": {
+                    "Consum energie electrica": "90 W",
+                    "Consum energie electrica / 1000 ore": "59 kWh",
+                    "Putere consumata in stand-by": "0.5 W",
+                    "Clasa energetica potrivit noilor etichete energetice adoptate la nivelul UE": "Clasa G"
+                  },
+                  "DIMENSIUNI": {
+                    "Dimensiune cu stand": "967 x 194 x 615 mm"
+                  },
+                  "ACCESORII": {
+                    "Continut pachet": "Cablu alimentare"
+                  }
+                }
+              },
+              {
+                "title": "Televizor Philips LED The One 43PUS8507/12, 108 cm, Smart Android, 4K Ultra HD, Clasa G",
+                "price": 2199.99,
+                "image_path": [
+                  "./images/Televizor Philips LED The One 43PUS8507/12, 108 cm, Smart Android, 4K Ultra HD, Clasa G.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Televizor Horizon LED 43HL7539U/C, 108 cm, Smart, 4K Ultra HD, Class F",
+                "price": 1229.99,
+                "image_path": [
+                  "./images/Televizor Horizon LED 43HL7539U/C, 108 cm, Smart, 4K Ultra HD, Class F.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              }
+            ]
+          },
+          {
+            "title": "Cabluri si adaptoare",
+            "products": [
+              {
+                "title": "Cablu A+ HDMI, CV-HDMI2, tata-tata, 4K, Ethernet, aurit, 2 m, negru",
+                "price": 15.99,
+                "image_path": [
+                  "./images/Cablu A+ HDMI, CV-HDMI2, tata-tata, 4K, Ethernet, aurit, 2 m, negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Cablu",
+                    "Tip conector 1": "HDMI tata",
+                    "Tip conector 2": "HDMI tata",
+                    "Lungime cablu": "2 m",
+                    "Invelis extern": "PVC",
+                    "Material conector": "Placat cu aur"
+                  }
+                }
+              },
+              {
+                "title": "Cablu HDMI 1.8 M de Mare Viteza HDTV, RANKIE, R-1108K-CB2, Ethernetm, 3D, 4K, Audio Return, Negru",
+                "price": 29.99,
+                "image_path": [
+                  "./images/Cablu HDMI 1.8 M de Mare Viteza HDTV, RANKIE, R-1108K-CB2, Ethernetm, 3D, 4K, Audio Return, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Cablu",
+                    "Tip conector 1": "HDMI tata",
+                    "Tip conector 2": "HDMI tata",
+                    "Lungime cablu": "1.8 m",
+                    "Invelis extern": "Plastic",
+                    "Material izolatie": "Cauciuc",
+                    "Material conector": "Placat cu aur",
+                    "Continut pachet": "1 cablu HDMI"
+                  }
+                }
+              },
+              {
+                "title": "Cablu A+ HDMI 2.1 V, UHSP2.1-3, tata-tata, 8K, Ethernet, aurit, 3 m",
+                "price": 27.59,
+                "image_path": [
+                  "./images/Cablu A+ HDMI 2.1 V, UHSP2.1-3, tata-tata, 8K, Ethernet, aurit, 3 m.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Cablu",
+                    "Tip conector 1": "HDMI tata",
+                    "Tip conector 2": "HDMI tata",
+                    "Lungime cablu": "3 m",
+                    "Invelis extern": "Aluminiu",
+                    "Material conector": "Placat cu aur"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Suporturi TV",
+            "products": [
+              {
+                "title": "Suport TV de perete A+ SP22T, reglabil, 23\"-43\"",
+                "price": 47.99,
+                "image_path": [
+                  "./images/Suport TV de perete A+ SP22T, reglabil, 23\"-43\".jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Suport TV de perete T50S, Otel, Reglabil, 26-60'', 35kg, Negru",
+                "price": 118.99,
+                "image_path": [
+                  "./images/Suport TV de perete T50S, Otel, Reglabil, 26-60'', 35kg, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Fix",
+                    "Tip montare": "Perete",
+                    "Material": "Otel",
+                    "Distanta de la perete": "23 mm",
+                    "Diagonala minima compatibila": "20 inch",
+                    "Diagonala maxima compatibila": "60 inch",
+                    "Greutate maxima suportata": "35 Kg",
+                    "Compatibilitate VESA": "200 x 100\n300 x 300\n400 x 400\n200 x 200\n200 x 400",
+                    "Culoare": "Negru"
+                  }
+                }
+              },
+              {
+                "title": "Suport TV de perete A+ SPB446, reglabil, 32\"-70\", Negru",
+                "price": 296.99,
+                "image_path": [
+                  "./images/Suport TV de perete A+ SPB446, reglabil, 32\"-70\", Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Audio HI-FI & Profesionale",
+        "subcategories": [
+          {
+            "title": "Boxe",
+            "products": [
+              {
+                "title": "Set boxe active JRH 2321A Microphone wireless 800w",
+                "price": 879.99,
+                "image_path": [
+                  "./images/Set boxe active JRH 2321A Microphone wireless 800w.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Outdoor",
+                    "Tip amplificare": "Activa\nPasiva",
+                    "Utilizare": "Profesional\nUz casnic",
+                    "Tip montare": "De podea",
+                    "Numar boxe": "2",
+                    "Conectivitate": "Bluetooth\nUSB",
+                    "Numar canale": "2",
+                    "Constructie": "Lemn",
+                    "Putere RMS totala": "800 W",
+                    "Reglaje": "Bass",
+                    "Greutate": "19.26 Kg",
+                    "Conectori": "1 x USB\n1 x Digital audio input\n1 x Micro SD",
+                    "Functii": "Bluetooth\nLumini RGB\nUSB",
+                    "Continut pachet": "1 x Adaptor\n1 telecomanda",
+                    "Culoare": "Negru"
+                  }
+                }
+              },
+              {
+                "title": "Boxa portabila Lenovo K3, Bluetooth, Music Surround Bass, USB, Waterproof, USB",
+                "price": 155.0,
+                "image_path": [
+                  "./images/Boxa portabila Lenovo K3, Bluetooth, Music Surround Bass, USB, Waterproof, USB.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Boxa centrala",
+                    "Tip amplificare": "Activa",
+                    "Utilizare": "Uz casnic",
+                    "Tip montare": "De raft",
+                    "Numar boxe": "1",
+                    "Conectivitate": "Bluetooth",
+                    "Numar canale": "2",
+                    "Constructie": "Metal",
+                    "Putere RMS totala": "3 W",
+                    "Impedanta iesire": "3.5 \u03a9",
+                    "Numar cai": "2",
+                    "Greutate": "0.25 Kg",
+                    "Conectori": "1 x USB",
+                    "Functii": "Bluetooth",
+                    "Continut pachet:": "1 x Boxa\n1 x Cablu USB\n1 x Manual",
+                    "Culoare": "Gri carbune"
+                  }
+                }
+              },
+              {
+                "title": "Set 2 Boxe Profesionale Active Smart Bass 284, 600W, Functie Bluetooth, SD Card, USB, Jocuri de lumini, Amplificator si Egalizator si Microfon Wireless",
+                "price": 596.19,
+                "image_path": [
+                  "./images/Set 2 Boxe Profesionale Active Smart Bass 284, 600W, Functie Bluetooth, SD Card, USB, Jocuri de lumini, Amplificator si Egalizator si Microfon Wireless.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Sistem complet",
+                    "Utilizare": "Profesional\nUz casnic",
+                    "Tip montare": "De podea",
+                    "Numar boxe": "2",
+                    "Conectivitate": "Bluetooth\nUSB\nCititor de carduri\nAUX",
+                    "Numar canale": "2",
+                    "Putere RMS totala": "600 W",
+                    "Numar cai": "2",
+                    "Reglaje": "Tone\nBass Treble Echo Volum\nKaraoke\nChitara",
+                    "Greutate": "32 Kg",
+                    "Continut pachet": "1 x Boxa activa\n1 x Boxa pasiva",
+                    "Culoare": "Portocaliu\nNegru"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Sisteme complete",
+            "products": [
+              {
+                "title": "Sistem audio Camry CR1173, Mini Hi-Fi sistem, Bluetooth, CD-ROM, USB, Stereo, 28W, FM/AM radio, X-Bass",
+                "price": 329.82,
+                "image_path": [
+                  "./images/Sistem audio Camry CR1173, Mini Hi-Fi sistem, Bluetooth, CD-ROM, USB, Stereo, 28W, FM/AM radio, X-Bass.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Set amplificator audio incastrabil perete cu 4 difuzoare tavan, 80W RMS, 6.5\", Bluetooth/USB/SD, Fenton POWERLINE A100BSET",
+                "price": 1360.54,
+                "image_path": [
+                  "./images/Set amplificator audio incastrabil perete cu 4 difuzoare tavan, 80W RMS, 6.5\", Bluetooth/USB/SD, Fenton POWERLINE A100BSET.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Set amplificator audio incastrabil perete cu 2 difuzoare tavan, 40W RMS, 6.5\", Bluetooth/USB/SD, Fenton POWERLINE A50BSET",
+                "price": 895.63,
+                "image_path": [
+                  "./images/Set amplificator audio incastrabil perete cu 2 difuzoare tavan, 40W RMS, 6.5\", Bluetooth/USB/SD, Fenton POWERLINE A50BSET.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              }
+            ]
+          },
+          {
+            "title": "Sisteme audio wireless",
+            "products": [
+              {
+                "title": "Microfon Kararoke Wireless Auriu WS-858 cu Bluetooth Card SD",
+                "price": 55.5,
+                "image_path": [
+                  "./images/Microfon Kararoke Wireless Auriu WS-858 cu Bluetooth Card SD.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Boxa inteligenta Apple Homepod Alb",
+                "price": 1699.0,
+                "image_path": [
+                  "./images/Boxa inteligenta Apple Homepod Alb.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Adaptor audio wireless, BlitzWolf\u00ae, BW-BR1 Pro, Bluetooth V5.0 USB / AUX",
+                "price": 74.8,
+                "image_path": [
+                  "./images/Adaptor audio wireless, BlitzWolf\u00ae, BW-BR1 Pro, Bluetooth V5.0 USB / AUX.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Home Cinema & Audio",
+        "subcategories": [
+          {
+            "title": "Sisteme audio",
+            "products": [
+              {
+                "title": "Boxa portabila JBL Partybox Encore, 100W, Bluetooth, 10H, Light show, IPX4, Microfon wireless, Negru",
+                "price": 1664.0,
+                "image_path": [
+                  "./images/Boxa portabila JBL Partybox Encore, 100W, Bluetooth, 10H, Light show, IPX4, Microfon wireless, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Sistem audio",
+                    "Tip": "Standard",
+                    "Tehnologie": "Wireless",
+                    "Conectivitate": "Bluetooth",
+                    "Utilizare": "Uz casnic",
+                    "Numar canale": "1",
+                    "Raspuns in frecventa": "50 - 20000 Hz",
+                    "Conectori": "Bluetooth",
+                    "Continut pachet": "1 x Boxa portabila\n1 x Cablu AC\n1 x Microfon wireless",
+                    "Culoare": "Negru"
+                  },
+                  "REDARE": {
+                    "Tip mediu de redare": "Mp3 Player",
+                    "Functii": "Microfon integrat\nKaraoke\nParty Lights"
+                  },
+                  "PERFORMANTE": {
+                    "Putere RMS totala": "100 W"
+                  },
+                  "DIMENSIUNI": {
+                    "Lungime": "29.3 cm",
+                    "Latime": "27.6 cm",
+                    "Inaltime": "32.7 cm",
+                    "Greutate": "6.3 Kg"
+                  }
+                }
+              },
+              {
+                "title": "Sistem audio portabil JBL Partybox 110, 160W, Original Pro Sound, Dynamic light, Bluetooth, USB, Baterie 12H, IPX4, Negru",
+                "price": 1799.99,
+                "image_path": [
+                  "./images/Sistem audio portabil JBL Partybox 110, 160W, Original Pro Sound, Dynamic light, Bluetooth, USB, Baterie 12H, IPX4, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Sistem audio",
+                    "Tip": "Standard",
+                    "Tehnologie": "Wireless\nCu fir",
+                    "Conectivitate": "Bluetooth\nUSB",
+                    "Utilizare": "Profesional\nUz casnic",
+                    "Raspuns in frecventa": "45 Hz - 20 kHz",
+                    "Raport semnal zgomot": "80 dB",
+                    "Conectori": "USB\nJack 3.5",
+                    "Continut pachet": "1 x Sistem audio",
+                    "Culoare": "Negru"
+                  },
+                  "REDARE": {
+                    "Formate audio suportate": "MP3"
+                  },
+                  "PERFORMANTE": {
+                    "Putere RMS totala": "160 W"
+                  }
+                }
+              },
+              {
+                "title": "Sistem audio portabil SONY SRS-XP500, MEGA BASS, Bluetooth, LDAC, Wireless, IPX4, Party Connect, Autonomie de 20 ore, Negru",
+                "price": 1239.99,
+                "image_path": [
+                  "./images/Sistem audio portabil SONY SRS-XP500, MEGA BASS, Bluetooth, LDAC, Wireless, IPX4, Party Connect, Autonomie de 20 ore, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Sistem audio",
+                    "Tip": "Standard",
+                    "Tehnologie": "Wireless\nCu fir",
+                    "Conectivitate": "Bluetooth\nUSB\nAUX",
+                    "Utilizare": "Uz casnic",
+                    "Numar canale": "4",
+                    "Conectori": "USB\nJack 3.5\n2 x Jack 6.3 mm",
+                    "Continut pachet": "1 x Cablu de incarcare\n1 x Manual de instructiuni\n1 x Boxa portabila",
+                    "Culoare": "Negru"
+                  },
+                  "REDARE": {
+                    "Tip mediu de redare": "Memorie USB\nAUX",
+                    "Functii": "Karaoke\nParty Chain\nBass Boost\nParty Lights"
+                  },
+                  "DIMENSIUNI": {
+                    "Lungime": "275 mm",
+                    "Latime": "295 mm",
+                    "Inaltime": "572 mm",
+                    "Greutate": "11.2 Kg"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Sisteme Home Cinema",
+            "products": [
+              {
+                "title": "Sistem Audio Surround Yamaha YHT-4960, 5.1, Negru",
+                "price": 4499.0,
+                "image_path": [
+                  "./images/Sistem Audio Surround Yamaha YHT-4960, 5.1, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Numar canale": "5.1",
+                    "Tehnologie": "Wireless\nCu fir",
+                    "Tip mediu de redare": "USB",
+                    "Conectori": "1 x Aux in"
+                  },
+                  "DIMENSIUNI": {
+                    "Dimensiuni player (W x D x H)": "435 x 377 x 171 mm"
+                  }
+                }
+              },
+              {
+                "title": "Sistem Profesilnal de Boxe 5.1 AKAI , Subwoofer Activ , Putere de 105 W RMS + DVD player Alien USB , Culoare Negru/Rosu",
+                "price": 945.0,
+                "image_path": [
+                  "./images/Sistem Profesilnal de Boxe 5.1 AKAI , Subwoofer Activ , Putere de 105 W RMS + DVD player Alien USB , Culoare Negru/Rosu.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Home Cinema 5.1 Canton Movie 135, Negru",
+                "price": 4284.0,
+                "image_path": [
+                  "./images/Home Cinema 5.1 Canton Movie 135, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Numar canale": "5.1",
+                    "Tehnologie": "Wireless",
+                    "Raspuns in frecventa": "120 - 25000 Hz",
+                    "Culoare": "Negru"
+                  },
+                  "CARACTERISTICI AUDIO-VIDEO": {
+                    "Moduri sunet prestabilite": "Cinema"
+                  },
+                  "DIMENSIUNI": {
+                    "Dimensiuni boxa frontala (W x D x H)": "8.9 x 10.6 x 11.6 cm",
+                    "Dimensiuni boxa centrala (W x D x H)": "19.6 x 10.6 x 8.9 cm",
+                    "Dimensiuni subwoofer (W x D x H)": "24 x 42 x 41 cm",
+                    "Greutate boxa frontala": "0.8 Kg",
+                    "Greutate boxa centrala": "1.4 Kg",
+                    "Greutate subwoofer": "9.8 Kg"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Soundbar",
+            "products": [
+              {
+                "title": "Soundbar Samsung HW-B450/EN, 2.1, 300W, Dolby, Subwoofer Wireless, negru",
+                "price": 699.99,
+                "image_path": [
+                  "./images/Soundbar Samsung HW-B450/EN, 2.1, 300W, Dolby, Subwoofer Wireless, negru.jpg",
+                  "wb"
+                ],
+                "specifications": {}
+              },
+              {
+                "title": "Soundbar Sony HT-S400, 2.1ch, 330 W, Bluetooth, Subwoofer wireless, Dolby Digital, Negru",
+                "price": 899.99,
+                "image_path": [
+                  "./images/Soundbar Sony HT-S400, 2.1ch, 330 W, Bluetooth, Subwoofer wireless, Dolby Digital, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Design soundbar": "Cu subwoofer",
+                    "Subwoofer wireless": "Da",
+                    "Numar canale": "2.1",
+                    "Putere": "330 W",
+                    "Culoare": "Negru"
+                  },
+                  "CONECTIVITATE": {
+                    "Conectivitate": "Bluetooth",
+                    "Versiune Bluetooth": "5.0",
+                    "Conectori intrare": "1 x USB\n1 x Optical",
+                    "Conectori iesire": "1 x HDMI ARC"
+                  },
+                  "CARACTERISTICI SUNET": {
+                    "Tehnologii audio": "Dolby Digital",
+                    "Caracteristici speciale": "Mod voce\nMod noapte\nS-Force PRO"
+                  },
+                  "ALIMENTARE": {
+                    "Consum subwoofer": "20 W",
+                    "Consum soundbar": "35 W"
+                  },
+                  "DIMENISUNI": {
+                    "Dimensiune soundbar": "900 x 88 x 64 mm",
+                    "Dimensiune subwoofer": "192 x 400 x 387 mm",
+                    "Greutate soundbar": "2.4 Kg",
+                    "Greutate subwoofer": "7.3 Kg"
+                  },
+                  "ACCESORII": {
+                    "Continut pachet": "1 x manual de utilizare\n1 x Telecomanda\n1 x Adaptor alimentare retea\n1 x Cablu optic"
+                  }
+                }
+              },
+              {
+                "title": "Soundbar Sony HT-SF150, 2 canale, Boxa Bass Reflex, 120W, Bluetooth, Negru",
+                "price": 429.9,
+                "image_path": [
+                  "./images/Soundbar Sony HT-SF150, 2 canale, Boxa Bass Reflex, 120W, Bluetooth, Negru.jpg",
+                  "wb"
+                ],
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Design soundbar": "Fara subwoofer",
+                    "Numar canale": "2",
+                    "Putere": "120 W",
+                    "Putere soundbar": "120 W",
+                    "Culoare": "Negru"
+                  },
+                  "CONECTIVITATE": {
+                    "Conectivitate": "Bluetooth\nUSB",
+                    "Versiune Bluetooth": "4.2",
+                    "Conectori intrare": "1 x USB\n1 x Audio optic in",
+                    "Conectori iesire": "1 x HDMI ARC"
+                  },
+                  "CARACTERISTICI SUNET": {
+                    "Tehnologii audio": "Dolby Digital"
+                  },
+                  "CARACTERISTICI SMART": {
+                    "Aplicatii incluse": "SongPal"
+                  },
+                  "ALIMENTARE": {
+                    "Consum soundbar": "30 W",
+                    "Putere consumata in stand-by": "0.5 W"
+                  },
+                  "DIMENISUNI": {
+                    "Dimensiune soundbar": "90 x 8.8 x 6.4 cm",
+                    "Greutate soundbar": "2.4 Kg"
+                  },
+                  "ACCESORII": {
+                    "Continut pachet": "1 x Telecomanda\n1 x Cablu alimentare\n1 x Cablu optic"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
