@@ -20,7 +20,9 @@ class Product(BaseElement):
         self._driver.switch_to.window(self._driver.window_handles[-1])
 
         try:
-            self._title = self._driver.find_element(By.XPATH, './/h1[@class="page-title"]').text
+            self._title = self._driver.find_element(
+                By.XPATH, './/h1[@class="page-title"]'
+            ).text.replace('/', ' ').replace('®', '').replace('™', '').replace('"', 'inch')
 
             self._price = float(
                 self._driver.find_element(
@@ -30,7 +32,7 @@ class Product(BaseElement):
 
             image_element = self._driver.find_element(By.XPATH, './/div[@data-ph-id="image-0"]//img')
             image_data = requests.get(url=image_element.get_attribute('src')).content
-            self._image_path = f'./images/{self._title}.jpg', 'wb'
+            self._image_path = f'./images/{self._title}.jpg'
             with open(f'./images/{self._title}.jpg', 'wb') as image_file:
                 image_file.write(image_data)
 
