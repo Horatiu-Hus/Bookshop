@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    <title>{{ product.name }}</title>
+{% endblock %}
+
+{% block content %}
+    <div class="product-metadata">
+            <div class="product-image-container">
+                <img src="{{ product.image_url }}" height="200" />
+            </div>
+            <div class="product-details">
+                <p id="product-name">{{ product.name }}</p>
+                <div class="product-controls">
+                    <p>{{ product.price }} RON</p>
+                    <button>Add to cart</button>
+                </div>
+            </div>
+    </div>
+    <table>
+        <table class="product-specifications">
+            <tbody>
+                {% for specs in product.specifications.all %}
+                    <tr>
+                        <td>{{ specs.name }}:</td>
+                        <td>{{ specs.value }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+{% endblock %}

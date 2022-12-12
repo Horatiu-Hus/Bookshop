@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    <title>Available products</title>
+{% endblock %}
+
+{% block content %}
+    <ul class="products-container">
+        {% for product in products %}
+            <li>
+                <img src="{{ product.image_url }}" height="200" />
+                <a href="{% url 'products:products_details' product.id %}">
+                    <p>{{ product.name | truncatechars:200 }}</p>
+                </a>
+                <div class="product-data">
+                    <p class="price">{{ product.price }} RON</p>
+                    <button>Add to cart</button>
+                </div>
+            </li>
+        {% empty %}
+            <p> No products available.</p>
+        {% endfor %}
+    </ul>
+{% endblock %}
